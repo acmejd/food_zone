@@ -10,7 +10,7 @@ const Success = () => {
   }, [])
 
   return (
-    <div className='flex flex-col justify-content-center items-center h-screen' >
+    <div className='flex flex-col justify-content-center align-item-center items-center h-screen' >
       {
         loading ? <PropagateLoader color="#06e9ff" /> : (
           <div>
