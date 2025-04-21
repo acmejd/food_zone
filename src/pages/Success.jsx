@@ -17,6 +17,8 @@ const Success = () => {
             <h2 className='fs-2 fw-bold text-center'>Order Successful!</h2>
             <p className='fs-4'>Your order has been successfully placed.</p>
             <a href="/" class="btn btn-success fw-semibold rounded-pill px-4 py-2 custom-btn">
+              Go Home
+            </a>
           </div>
         )}
     </div>
